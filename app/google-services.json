@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910427890266",
+    "firebase_url": "https://simplefirebase-dba8b.firebaseio.com",
+    "project_id": "simplefirebase-dba8b",
+    "storage_bucket": "simplefirebase-dba8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910427890266:android:f17aa5010b0a37d4a0ae63",
+        "android_client_info": {
+          "package_name": "com.knighenko.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910427890266-fbntps552l5gailf5dk74l7ljppo166j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.knighenko.simplefirebase",
+            "certificate_hash": "36ab9ee0b78a62bfd716b54547e8cb6ebbc1f2b1"
+          }
+        },
+        {
+          "client_id": "910427890266-8d4loq3p67o1a2p7dflvoe6t9qp1eb57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANuqB3SKQJjzRT16Z7Ck1KRb7f929LC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910427890266-8d4loq3p67o1a2p7dflvoe6t9qp1eb57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
