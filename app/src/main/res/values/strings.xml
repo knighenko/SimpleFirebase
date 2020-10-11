@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleFirebase</string>
+    <string name="msg_token_fmt">TOKEN_IS=============</string>
 </resources>
